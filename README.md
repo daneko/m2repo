@@ -5,6 +5,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.daneko:android-inapp-library:0.0.1-SNAPSHOT@aar'
+    compile 'com.github.daneko:android-inapp-library:0.0.1-SNAPSHOT'
+    compile 'com.github.daneko:simple-item-animator:0.0.1-SNAPSHOT'
 }
 ```
