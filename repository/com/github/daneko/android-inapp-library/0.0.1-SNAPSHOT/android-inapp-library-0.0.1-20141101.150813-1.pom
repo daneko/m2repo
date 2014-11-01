@@ -6,6 +6,19 @@
   <artifactId>android-inapp-library</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>aar</packaging>
+  <inceptionYear>2014</inceptionYear>
+  <licenses>
+    <license>
+      <name>The MIT License</name>
+      <url>https://github.com/daneko/android-inapp-library/blob/master/LICENSE.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <connection>scm:https://daneko@github.com/daneko/android-inapp-library</connection>
+    <developerConnection>scm:daneko@github.com/daneko/android-inapp-library.git</developerConnection>
+    <url>https://github.com/daneko/android-inapp-library</url>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>io.reactivex</groupId>

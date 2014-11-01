@@ -1,7 +1,7 @@
 
 ```
 repositories {
-    maven { url 'http://daneko.github.io/m2repo/repository' }
+    maven { url 'https://daneko.github.io/m2repo/repository' }
 }
 
 dependencies {
@@ -9,3 +9,6 @@ dependencies {
     compile 'com.github.daneko:simple-item-animator:0.0.1-SNAPSHOT'
 }
 ```
+
+* [android-inapp-library](https://github.com/daneko/android-inapp-library)
+* [SimpleItemAnimator](https://github.com/daneko/SimpleItemAnimator)
