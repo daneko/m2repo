@@ -21,21 +21,21 @@
   </scm>
   <dependencies>
     <dependency>
+      <groupId>com.google.code.findbugs</groupId>
+      <artifactId>jsr305</artifactId>
+      <version>3.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
-      <version>21.0.0</version>
+      <version>21.0.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.reactivex</groupId>
       <artifactId>rxandroid</artifactId>
-      <version>0.22.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.functionaljava</groupId>
-      <artifactId>functionaljava</artifactId>
-      <version>4.2-beta-1</version>
+      <version>0.24.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -45,9 +45,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.code.findbugs</groupId>
-      <artifactId>jsr305</artifactId>
-      <version>3.0.0</version>
+      <groupId>org.functionaljava</groupId>
+      <artifactId>functionaljava</artifactId>
+      <version>4.2</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
