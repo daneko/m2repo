@@ -21,9 +21,9 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>com.google.code.findbugs</groupId>
-      <artifactId>jsr305</artifactId>
-      <version>3.0.0</version>
+      <groupId>org.functionaljava</groupId>
+      <artifactId>functionaljava</artifactId>
+      <version>4.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -39,9 +39,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.functionaljava</groupId>
-      <artifactId>functionaljava</artifactId>
-      <version>4.2</version>
+      <groupId>com.google.code.findbugs</groupId>
+      <artifactId>jsr305</artifactId>
+      <version>3.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
